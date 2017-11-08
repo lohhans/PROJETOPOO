@@ -6,7 +6,4 @@ public class Pacote {
     int quantidadeMeses;
     int cpfCliente;
 
-    Pacote(ArrayList<Modalidade> vetorModalidades){
-
-    }
 }
